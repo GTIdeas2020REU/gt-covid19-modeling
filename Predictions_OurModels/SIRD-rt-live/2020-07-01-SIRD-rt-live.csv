@@ -1,0 +1,22 @@
+location,target,target_end_date,forecast_date,value,quantile,type
+US,0 day ahead inc case,2020-07-01,2020-07-01,552333.3151835361,NA,point
+US,1 day ahead inc case,2020-07-02,2020-07-01,571177.4468499486,NA,point
+US,2 day ahead inc case,2020-07-03,2020-07-01,589706.4283697816,NA,point
+US,3 day ahead inc case,2020-07-04,2020-07-01,608197.6567338879,NA,point
+US,4 day ahead inc case,2020-07-05,2020-07-01,625292.2769356861,NA,point
+US,5 day ahead inc case,2020-07-06,2020-07-01,642361.5439917375,NA,point
+US,6 day ahead inc case,2020-07-07,2020-07-01,660827.08042756,NA,point
+US,0 day ahead inc case,2020-07-01,2020-07-01,551400.4015839584,NA,point
+US,1 day ahead inc case,2020-07-02,2020-07-01,570245.9414195761,NA,point
+US,2 day ahead inc case,2020-07-03,2020-07-01,588780.3528967048,NA,point
+US,3 day ahead inc case,2020-07-04,2020-07-01,607272.260732659,NA,point
+US,4 day ahead inc case,2020-07-05,2020-07-01,624466.0807211581,NA,point
+US,5 day ahead inc case,2020-07-06,2020-07-01,641424.119927497,NA,point
+US,6 day ahead inc case,2020-07-07,2020-07-01,659880.0475739065,NA,point
+US,7 day ahead inc case,2020-07-08,2020-07-01,677976.1722985022,NA,point
+US,8 day ahead inc case,2020-07-09,2020-07-01,695818.6417310734,NA,point
+US,9 day ahead inc case,2020-07-10,2020-07-01,713569.265681179,NA,point
+US,10 day ahead inc case,2020-07-11,2020-07-01,731211.8142658047,NA,point
+US,11 day ahead inc case,2020-07-12,2020-07-01,748649.9082488632,NA,point
+US,12 day ahead inc case,2020-07-13,2020-07-01,766279.1132424837,NA,point
+US,13 day ahead inc case,2020-07-14,2020-07-01,784179.3393297329,NA,point

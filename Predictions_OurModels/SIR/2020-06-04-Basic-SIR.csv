@@ -1,0 +1,8 @@
+location,target,target_end_date,forecast_date,value,quantile,type
+US,0 day ahead inc case,2020-06-04,2020-06-04,58087.385389513576,NA,point
+US,1 day ahead inc case,2020-06-05,2020-06-04,61076.395981835456,NA,point
+US,2 day ahead inc case,2020-06-06,2020-06-04,64136.70061204126,NA,point
+US,3 day ahead inc case,2020-06-07,2020-06-04,67259.52439745069,NA,point
+US,4 day ahead inc case,2020-06-08,2020-06-04,70434.71106152122,NA,point
+US,5 day ahead inc case,2020-06-09,2020-06-04,73650.69000616956,NA,point
+US,6 day ahead inc case,2020-06-10,2020-06-04,76894.46683166889,NA,point

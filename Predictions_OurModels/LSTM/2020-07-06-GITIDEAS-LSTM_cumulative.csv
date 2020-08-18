@@ -1,0 +1,27 @@
+location,target,target_end_date,forecast_date,value,quantile,type
+US,1 day ahead cum case,2020-07-07,2020-07-06,2552945.0,NA,point
+US,2 day ahead cum case,2020-07-08,2020-07-06,2583861.0,NA,point
+US,3 day ahead cum case,2020-07-09,2020-07-06,2615948.8,NA,point
+US,4 day ahead cum case,2020-07-10,2020-07-06,2649278.8,NA,point
+US,5 day ahead cum case,2020-07-11,2020-07-06,2683865.8,NA,point
+US,6 day ahead cum case,2020-07-12,2020-07-06,2719681.0,NA,point
+US,7 day ahead cum case,2020-07-13,2020-07-06,2756683.8,NA,point
+US,8 day ahead cum case,2020-07-14,2020-07-06,2794654.8,NA,point
+US,9 day ahead cum case,2020-07-15,2020-07-06,2833369.8,NA,point
+US,10 day ahead cum case,2020-07-16,2020-07-06,2872663.0,NA,point
+US,11 day ahead cum case,2020-07-17,2020-07-06,2912362.8,NA,point
+US,12 day ahead cum case,2020-07-18,2020-07-06,2952334.2,NA,point
+US,13 day ahead cum case,2020-07-19,2020-07-06,2992517.2,NA,point
+US,14 day ahead cum case,2020-07-20,2020-07-06,3032822.5,NA,point
+US,15 day ahead cum case,2020-07-21,2020-07-06,3073094.8,NA,point
+US,16 day ahead cum case,2020-07-22,2020-07-06,3113150.8,NA,point
+US,17 day ahead cum case,2020-07-23,2020-07-06,3152844.0,NA,point
+US,18 day ahead cum case,2020-07-24,2020-07-06,3192084.8,NA,point
+US,19 day ahead cum case,2020-07-25,2020-07-06,3230860.5,NA,point
+US,20 day ahead cum case,2020-07-26,2020-07-06,3269209.2,NA,point
+US,21 day ahead cum case,2020-07-27,2020-07-06,3307032.0,NA,point
+US,22 day ahead cum case,2020-07-28,2020-07-06,3343962.5,NA,point
+US,23 day ahead cum case,2020-07-29,2020-07-06,3380601.5,NA,point
+US,24 day ahead cum case,2020-07-30,2020-07-06,3416962.5,NA,point
+US,25 day ahead cum case,2020-07-31,2020-07-06,3453023.5,NA,point
+US,26 day ahead cum case,2020-08-01,2020-07-06,3488802.5,NA,point
