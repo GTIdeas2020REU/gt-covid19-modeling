@@ -1,8 +1,8 @@
-,location,target,target_end_date,forecast_date,point,quantile
-49,US,1 wk ahead inc case,2020-06-08,2020-06-08,43006.077665157514,NA
-50,US,1 wk ahead inc case,2020-06-09,2020-06-08,44768.18889084575,NA
-51,US,1 wk ahead inc case,2020-06-10,2020-06-08,46536.95062516675,NA
-52,US,1 wk ahead inc case,2020-06-11,2020-06-08,48304.89784004289,NA
-53,US,1 wk ahead inc case,2020-06-12,2020-06-08,50063.98895070741,NA
-54,US,1 wk ahead inc case,2020-06-13,2020-06-08,51805.64813787201,NA
-55,US,1 wk ahead inc case,2020-06-14,2020-06-08,53520.821206361295,NA
+location,target,target_end_date,forecast_date,point,quantile
+US,1 wk ahead inc case,2020-06-08,2020-06-08,43006.077665157514,NA
+US,1 wk ahead inc case,2020-06-09,2020-06-08,44768.18889084575,NA
+US,1 wk ahead inc case,2020-06-10,2020-06-08,46536.95062516675,NA
+US,1 wk ahead inc case,2020-06-11,2020-06-08,48304.89784004289,NA
+US,1 wk ahead inc case,2020-06-12,2020-06-08,50063.98895070741,NA
+US,1 wk ahead inc case,2020-06-13,2020-06-08,51805.64813787201,NA
+US,1 wk ahead inc case,2020-06-14,2020-06-08,53520.821206361295,NA
