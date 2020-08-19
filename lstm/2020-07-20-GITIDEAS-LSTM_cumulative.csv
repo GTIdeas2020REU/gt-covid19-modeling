@@ -1,0 +1,13 @@
+location,target,target_end_date,forecast_date,point,quantile
+US,Cumulative Cases,2020-07-21,2020-07-20,3831801.5,NA
+US,Cumulative Cases,2020-07-22,2020-07-20,3904612.8,NA
+US,Cumulative Cases,2020-07-23,2020-07-20,3979258.2,NA
+US,Cumulative Cases,2020-07-24,2020-07-20,4055820,NA
+US,Cumulative Cases,2020-07-25,2020-07-20,4134325,NA
+US,Cumulative Cases,2020-07-26,2020-07-20,4214708,NA
+US,Cumulative Cases,2020-07-27,2020-07-20,4296604.5,NA
+US,Cumulative Cases,2020-07-28,2020-07-20,4379882,NA
+US,Cumulative Cases,2020-07-29,2020-07-20,4464228.5,NA
+US,Cumulative Cases,2020-07-30,2020-07-20,4549511.5,NA
+US,Cumulative Cases,2020-07-31,2020-07-20,4635460,NA
+US,Cumulative Cases,2020-08-01,2020-07-20,4721729,NA
