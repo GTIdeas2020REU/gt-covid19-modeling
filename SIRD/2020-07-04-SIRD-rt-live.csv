@@ -1,0 +1,8 @@
+location,target,target_end_date,forecast_date,point,quantile
+US,1 wk ahead inc case,2020-07-04,2020-07-04,9.326407317267284,NA
+US,1 wk ahead inc case,2020-07-05,2020-07-04,8.530060251862807,NA
+US,1 wk ahead inc case,2020-07-06,2020-07-04,7.806410511800455,NA
+US,1 wk ahead inc case,2020-07-07,2020-07-04,7.176489778863207,NA
+US,1 wk ahead inc case,2020-07-08,2020-07-04,6.565906497634675,NA
+US,1 wk ahead inc case,2020-07-16,2020-07-04,6.002986281808561,NA
+US,1 wk ahead inc case,2020-07-17,2020-07-04,5.473564386095869,NA
